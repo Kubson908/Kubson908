@@ -1,7 +1,7 @@
 ## Hello there 👋 I'm Jakub
 
 <div width="80%" align="justify">
-  I'm a beginner full-stack developer. I mainly focus on backend programming using .NET Core, but I can also develop web applications in Vue.js and mobile applications using .NET MAUI
+  I'm a beginner full-stack developer. I mainly focus on backend programming using .NET Core, but I can also develop web applications in Vue.js and mobile applications using .NET MAUI.
 </div>
 
 <!--
