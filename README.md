@@ -38,7 +38,7 @@ Here are some ideas to get you started:
           <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
         </td>
         <td width="25%" align="center">
-          <span><strong>.NET MAUI</strong></span><br>
+          <span><strong>.NET MAUI</strong></span><br><br />
           <img height="64px" src="https://blog.verslu.is/maui/displaying-base64-encoded-images-dotnet-maui/images/icon.png">
         </td>
       </tr>
