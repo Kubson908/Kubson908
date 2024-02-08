@@ -24,68 +24,68 @@ Here are some ideas to get you started:
   <table align="center">
     <tbody>
       <tr valign="top">
-        <td width="20%" align="center">
+        <td width="150px" align="center">
           <span><strong>.NET Core</strong></span><br><br>
           <img height="64px" src="https://cdn.svgporn.com/logos/dotnet.svg">
         </td>
-        <td width="20%" align="center">
-          <span><strong>.NET MAUI</strong></span><br />
+        <td width="150px" align="center">
+          <span><strong>.NET MAUI</strong></span><br /><br />
           <img height="64px" src="https://blog.verslu.is/maui/displaying-base64-encoded-images-dotnet-maui/images/icon.png">
         </td>
-        <td width="20%" align="center">
-          <span><strong>Vue.js</strong></span><br><br>
+        <td width="150px" align="center">
+          <span><strong>Vue.js</strong></span><br /><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
         </td>
-        <td width="20%" align="center">
-          <span><strong>NestJS</strong></span><br><br>
+        <td width="150px" align="center">
+          <span><strong>NestJS</strong></span><br /><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg">
         </td>
-        <td width="20%" align="center">
+        <td width="150px" align="center">
           <span><strong>Angular</strong></span><br><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
         </td>
       </tr>
       <tr valign="top">
-        <td width="20%" align="center">
-          <span><strong>C#</strong></span><br><br>
+        <td width="150px" align="center">
+          <span><strong>C#</strong></span><br /><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
         </td>
-        <td width="20%" align="center">
-          <span><strong>TypeScript</strong></span><br><br>
+        <td width="150px" align="center">
+          <span><strong>TypeScript</strong></span><br /><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
         </td>
-        <td width="20%" align="center">
-          <span><strong>JavaScript</strong></span><br><br>
+        <td width="150px" align="center">
+          <span><strong>JavaScript</strong></span><br /><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
         </td>
-        <td width="20%" align="center">
-          <span><strong>Python</strong></span><br><br>
+        <td width="150px" align="center">
+          <span><strong>Python</strong></span><br /><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
         </td>
-        <td width="20%" align="center">
-          <span><strong>C++</strong></span><br><br />
+        <td width="150px" align="center">
+          <span><strong>C++</strong></span><br /><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
         </td>
       </tr>
       <tr valign="top">
-        <td width="20%" align="center">
-          <span><strong>Azure</strong></span><br><br>
+        <td width="150px" align="center">
+          <span><strong>Azure</strong></span><br /><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/microsoft-azure.svg">
         </td>
-        <td width="20%" align="center">
-          <span><strong>Git</strong></span><br><br>
+        <td width="150px" align="center">
+          <span><strong>Git</strong></span><br /><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
         </td>
-        <td width="20%" align="center">
-          <span><strong>MySQL</strong></span><br><br>
+        <td width="150px" align="center">
+          <span><strong>MySQL</strong></span><br /><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/mysql-icon.svg">
         </td>
-        <td width="20%" align="center">
-          <span><strong>MSSQL</strong></span><br><br>
+        <td width="150px" align="center">
+          <span><strong>MSSQL</strong></span><br /><br />
           <img height="64px" src="https://img.icons8.com/?size=256&id=laYYF3dV0Iew&format=png">
         </td>
-        <td width="20%" align="center">
-          <span><strong>Firebird</strong></span><br><br />
+        <td width="150px" align="center">
+          <span><strong>Firebird</strong></span><br /><br />
           <img height="64px" src="https://firebirdsql.org/file/about/ds-firebird-logo.svg">
         </td>
       </tr>
