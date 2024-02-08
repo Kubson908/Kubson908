@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <tbody>
       <tr valign="top">
         <td width="20%" align="center">
-          <span><strong>.NET Core</strong></span><br>
+          <span><strong>.NET Core</strong></span><br><br>
           <img height="64px" src="https://cdn.svgporn.com/logos/dotnet.svg">
         </td>
         <td width="20%" align="center">
