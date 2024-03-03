@@ -44,11 +44,15 @@ Here are some ideas to get you started:
           <span><strong>Angular</strong></span><br><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
         </td>
+        <td width="150px" align="center">
+          <span><strong>WPF</strong></span><br><br />
+          <img height="64px" src="https://www.ambient-it.net/wp-content/uploads/2016/04/wpf-logo-175.png.webp">
+        </td>
       </tr>
       <tr valign="top">
         <td width="150px" align="center">
           <span><strong>C#</strong></span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+          <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg">
         </td>
         <td width="150px" align="center">
           <span><strong>TypeScript</strong></span><br /><br />
@@ -65,6 +69,10 @@ Here are some ideas to get you started:
         <td width="150px" align="center">
           <span><strong>C++</strong></span><br /><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+        </td>
+        <td width="150px" align="center">
+          <span><strong>C</strong></span><br /><br />
+          <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
         </td>
       </tr>
       <tr valign="top">
@@ -87,6 +95,10 @@ Here are some ideas to get you started:
         <td width="150px" align="center">
           <span><strong>Firebird</strong></span><br /><br />
           <img height="64px" src="https://firebirdsql.org/file/about/ds-firebird-logo.svg">
+        </td>
+        <td width="150px" align="center">
+          <span><strong>Docker</strong></span><br /><br />
+          <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png">
         </td>
       </tr>
     </tbody>
