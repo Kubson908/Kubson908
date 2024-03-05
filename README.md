@@ -106,4 +106,4 @@ Here are some ideas to get you started:
 </div>
 
 ## You can find me on 📫
-<a href="https://www.linkedin.com/in/jakub-bartosiewicz-185a1829a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jakub-bartosiewicz1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
